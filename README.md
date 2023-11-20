@@ -8,4 +8,4 @@
 - Calculate correlation and regression.
 - Submit your final analysis.
 
-#final submission can be found within the 
+#final submission can be found within the data subfolder and is labeled "pymacueticals project file.ipynb"
