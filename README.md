@@ -1,4 +1,4 @@
-# pymacueticals-inc---project-5
+# Pymacueticals Inc---project-5
 ## Project #5 for UC Berkely Data Analytics Bootcamp, instructions for project were as follows:
 - Prepare the data.
 - Generate summary statistics.
@@ -7,3 +7,5 @@
 - Create a line plot and a scatter plot.
 - Calculate correlation and regression.
 - Submit your final analysis.
+
+#final submission can be found within the 
